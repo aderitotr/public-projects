@@ -14,6 +14,12 @@ The official Rain Bird app limits the manual-zone duration selector to:
 
 **1 h 40 min = 100 minutes**
 
+### Official app confirmation
+
+The image below is a privacy-safe crop from the official Rain Bird mobile app showing the manual duration selector at its maximum value of **1 h 40 min**.
+
+![Rain Bird app showing the 100-minute manual limit](images/official-app-100-minute-limit.png)
+
 ### Boundary test
 
 The decisive Home Assistant test was:
